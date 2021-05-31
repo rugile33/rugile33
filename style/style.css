@@ -36,8 +36,7 @@ main {
     background-color: chartreuse;
 }
 
-div {
-    width: 50%;
-    float: left;
-    background-color: blue;
+.close{
+
 }
+
