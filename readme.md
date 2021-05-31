@@ -7,8 +7,7 @@
 
 _29 group website project_
 
-This project is for educational porpuses only. Pull request are welcome, 
-Site published at https://front-end-by-rimantas.github.io/29-grupe-sign-up/
+This project is for educational porpuses only. Pull request are welcome
 
 Design: [Sign up](https://cdn.discordapp.com/attachments/648536139677958156/648860801997996052/day1dr.png)
 
