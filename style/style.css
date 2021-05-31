@@ -1,0 +1,43 @@
+body{
+    
+}
+main {
+    display: inline-block;
+    width:800px;
+    margin-top: 100px;
+    margin-left: calc(50% - 400px);
+
+}
+.left-column{
+    width: 40%;
+    float: left;
+    background-color: antiquewhite;
+}
+    
+.bottom-links{
+
+}
+.bottom-links>a{
+    background-color: deeppink;
+    {
+        .bottom-links < span
+
+    }
+}
+
+ .main-title{
+ font-size: 60px;
+}
+
+}
+.right-column{
+    width: 60px;
+    float: left;
+    background-color: chartreuse;
+}
+
+div {
+    width: 50%;
+    float: left;
+    background-color: blue;
+}
